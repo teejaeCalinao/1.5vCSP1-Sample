@@ -15,3 +15,74 @@ h1,h2,h3,h4,h5{
 	height: 60vh;
 	width: 100%;
 }
+
+nav {
+
+	background-image: 
+	linear-gradient(
+
+		rgba(0, 0, 0, 0.67),
+		rgba(0, 0, 0, 0.85)
+		),
+	url(https://www.baltana.com/files/wallpapers-10/Spiral-Bevel-Gears-Wallpaper-28262.jpg);
+	/*It stretch our bg image to cover the area of the element*/
+	background-size: cover;
+	/*no repeat makes sure that our bg image will not be repeated in the element.*/
+	background-repeat: no-repeat;
+	/*positions our background image to the center*/
+	background-position: center;
+
+
+}
+
+footer {
+
+	background-image: 
+	linear-gradient(
+
+		rgba(0, 0, 0, 0.67),
+		rgba(0, 0, 0, 0.85)
+		),
+	url(https://www.baltana.com/files/wallpapers-10/Spiral-Bevel-Gears-Wallpaper-28262.jpg);
+	/*It stretch our bg image to cover the area of the element*/
+	background-size: cover;
+	/*no repeat makes sure that our bg image will not be repeated in the element.*/
+	background-repeat: no-repeat;
+	/*positions our background image to the center*/
+	background-position: center;
+
+
+}
+#landing {
+	background-image: 
+	linear-gradient(
+
+		rgba(0, 0, 0, 0.10),
+		rgba(0, 0, 0, 0.65)
+		),
+	url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c711e4f8-9861-4f9d-bce8-77add26f13f9/d4k5ar3-f87cd8a0-3eec-4bfd-914b-f8061bd96ff7.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M3MTFlNGY4LTk4NjEtNGY5ZC1iY2U4LTc3YWRkMjZmMTNmOVwvZDRrNWFyMy1mODdjZDhhMC0zZWVjLTRiZmQtOTE0Yi1mODA2MWJkOTZmZjcuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.5hPFUPgr3nwVhZuFOwtB1IA0L2MfbGMau26yD3skwGw);
+	/*It stretch our bg image to cover the area of the element*/
+	background-size: cover;
+	/*no repeat makes sure that our bg image will not be repeated in the element.*/
+	background-repeat: no-repeat;
+	/*positions our background image to the center*/
+	background-position: center;
+
+}
+
+#tools {
+	background-image: 
+	linear-gradient(
+
+		rgba(0, 0, 0, 0.50),
+		rgba(0, 0, 0, 0.75)
+		),
+	url(https://images.pexels.com/photos/2884/building-vintage-bike-monument.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+	/*It stretch our bg image to cover the area of the element*/
+	background-size: cover;
+	/*no repeat makes sure that our bg image will not be repeated in the element.*/
+	background-repeat: no-repeat;
+	/*positions our background image to the center*/
+	background-position: center;
+
+}
