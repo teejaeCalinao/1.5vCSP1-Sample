@@ -23,8 +23,7 @@ nav {
 
 		rgba(0, 0, 0, 0.67),
 		rgba(0, 0, 0, 0.85)
-		),
-	url(https://www.baltana.com/files/wallpapers-10/Spiral-Bevel-Gears-Wallpaper-28262.jpg);
+		);
 	/*It stretch our bg image to cover the area of the element*/
 	background-size: cover;
 	/*no repeat makes sure that our bg image will not be repeated in the element.*/
@@ -37,13 +36,12 @@ nav {
 
 footer {
 
-	background-image: 
+	background: 
 	linear-gradient(
 
 		rgba(0, 0, 0, 0.67),
 		rgba(0, 0, 0, 0.85)
-		),
-	url(https://www.baltana.com/files/wallpapers-10/Spiral-Bevel-Gears-Wallpaper-28262.jpg);
+		);
 	/*It stretch our bg image to cover the area of the element*/
 	background-size: cover;
 	/*no repeat makes sure that our bg image will not be repeated in the element.*/
